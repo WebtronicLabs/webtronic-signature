@@ -16,6 +16,7 @@ const Signature = (props: PhotoSignatureProps) => {
     github: `https://img.icons8.com/ios-filled/344/github.png`,
   };
 
+  
   return (
     <div id='signatureId'>
       <table
