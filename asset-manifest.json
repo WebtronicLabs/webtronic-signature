@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webtronic-signature/static/css/main.7c0e7c47.css",
+    "main.js": "/webtronic-signature/static/js/main.a9c86ecf.js",
+    "index.html": "/webtronic-signature/index.html",
+    "main.7c0e7c47.css.map": "/webtronic-signature/static/css/main.7c0e7c47.css.map",
+    "main.a9c86ecf.js.map": "/webtronic-signature/static/js/main.a9c86ecf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c0e7c47.css",
+    "static/js/main.a9c86ecf.js"
+  ]
+}
