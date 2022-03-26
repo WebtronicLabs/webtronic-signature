@@ -4,16 +4,16 @@ import { ISignatureImagesUrl } from "./interfaces/signature-image-url.interface"
 
 const Signature = (props: PhotoSignatureProps) => {
   const baseUrl =
-    "https://storage.googleapis.com/proflyt-template-assets/Social%20media%20icons";
+    "https://storage.googleapis.com/archive.webtroniclabs.com/assets/webtronic-signature";
 
   const imagesUrl: ISignatureImagesUrl = {
-    logo: "https://storage.googleapis.com/archive.webtroniclabs.com/assets/webtronic-signature/logo.png",
+    logo: `${baseUrl}/logo.png`,
     facebook: `${baseUrl}/circle-facebook1-icon.png`,
     linkedIn: `${baseUrl}/circle-linkedin-icon.png`,
     instagram: `${baseUrl}/circle-instagram-icon.png`,
     twitter: `${baseUrl}/circle-twitter-icon.png`,
     youtube: `${baseUrl}/circle-youtube-icon.png`,
-    github: `https://img.icons8.com/ios-filled/344/github.png`,
+    github: `${baseUrl}/github.png`,
   };
 
   
