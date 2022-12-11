@@ -68,7 +68,7 @@ const initialState: State = {
     email: "",
     address: "12350 SW 184th St, Miami, FL, 33177",
     site: "https://webtroniclabs.com",
-    phone: "+1 (813) 420-4936",
+    phone: "+1 (305) 703-2411",
     facebookUrl: "https://www.facebook.com/webtroniclabs/",
     linkedinUrl: "https://www.linkedin.com/company/webtroniclabs/",
     instagramUrl: "https://www.instagram.com/webtroniclabs/",
