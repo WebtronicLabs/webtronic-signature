@@ -29,7 +29,10 @@ Builds the app for production to the `build` folder.\
 
 # Deploy and development notes
 
-I've used Node v12.14.1
+I've used Node v14.20.1
+
+Run: 
+```npm run deploy````
 
 ## How it works
 
